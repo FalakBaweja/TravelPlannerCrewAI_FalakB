@@ -5,7 +5,7 @@ An autonomous multi-agent intelligence system built using **CrewAI** and **Groq 
 ## Repository Contents
 1. **`travelplanner-falakbaweja.ipynb`**: The complete, runnable notebook code implemented in Kaggle.
 2. **`Report_TravelPlanner.pdf`**: A comprehensive technical report detailing the multi-agent architecture, prompt strategies, and system evaluation.
-3. **`requirements.txt`**: Python dependencies required to run this system locally.
+3. **`requirements.rtf`**: Python dependencies required to run this system locally.
 
 ## System Architecture & Agents
 The system orchestrates 7 distinct agents to handle specialized domains:
